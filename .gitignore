@@ -44,3 +44,7 @@ Thumbs.db
 # Data
 *.csv~
 *.xlsx~
+
+# Saved models (can be regenerated)
+saved_models/
+*.pkl
